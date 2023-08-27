@@ -1,0 +1,18 @@
+.avatar{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.iconmesage{
+    margin-left: 720px;
+}
+
+.iconmesage i{
+    margin: 10px;
+}
+.ava1{
+    margin-left: 300px;
+}
+.messageSend{
+    margin-top: 600px;
+}
